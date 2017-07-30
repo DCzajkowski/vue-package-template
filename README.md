@@ -48,4 +48,4 @@ I am not a JavaScript expert and some things may not be made in the best way pos
 Just use it. For free. Forever.
 
 ## Issues
-If you find any bug or problem with the template please open an issue or create a pull request on the [Github repo](https://github.com/DCzajkowski/vue-lightbox).
+If you find any bug or problem with the template please open an issue or create a pull request on the [Github repo](https://github.com/DCzajkowski/npm-vue-es6-package).
