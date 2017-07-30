@@ -22,11 +22,7 @@
     "type": "git",
     "url": "git+package-git-url"
   },
-  "keywords": [
-    "vue",
-    "vue.js",
-    "lightbox"
-  ],
+  "keywords": [],
   "author": "package-author",
   "license": "MIT",
   "bugs": {
