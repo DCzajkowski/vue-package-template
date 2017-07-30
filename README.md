@@ -17,8 +17,26 @@ This is a simple boilerplate for your next Vue plugin.
 8. Edit your new README file accordingly
 9. Run `npm publish`
 
+## How it works
+This template uses two different build systems.
+
+### NPM usage
+All code meant for npm usage is compiled with Webpack. All code goes into `dist-module/` folder.
+
+It is ignored by Git, but is being published to npm.
+
+### Browser usage
+All code meant for browser usage ie. `<script>` import is compiled with Browserify + Vueify. All code goes to `dist/` folder.
+
+It is ignored by Git, but is being published to npm.
+
+## Contributing
+You are welcome to contribute to this package in any way or form you want. New issues and pull requests are welcome.
+
+I am not a JavaScript expert and some things may not be made in the best way possible. Feel free to point out anything that sticks out.
+
 ## License
 Just use it. For free. Forever.
 
 ## Bugs
-If you find any bug or problem with the plugin please open an issue or create a pull request on the [Github repo](https://github.com/DCzajkowski/vue-lightbox).
+If you find any bug or problem with the template please open an issue or create a pull request on the [Github repo](https://github.com/DCzajkowski/vue-lightbox).
