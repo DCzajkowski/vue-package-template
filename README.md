@@ -1,6 +1,15 @@
 # Vue package ES6 boilerplate
 This is a simple boilerplate for your next Vue plugin.
 
+## Table of contents:
+* [Installation](#installation)
+* [How it works](#how-it-works)
+    * [NPM usage](#npm-usage)
+    * [Browser usage](#browser-usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Issues](#issues)
+
 ## Installation
 1. Fork this repo
 2. Clone it to your local development machine
@@ -38,5 +47,5 @@ I am not a JavaScript expert and some things may not be made in the best way pos
 ## License
 Just use it. For free. Forever.
 
-## Bugs
+## Issues
 If you find any bug or problem with the template please open an issue or create a pull request on the [Github repo](https://github.com/DCzajkowski/vue-lightbox).
