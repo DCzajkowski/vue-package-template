@@ -1,4 +1,4 @@
-import ExampleComponent from './Components/ExampleComponent'
+import ExampleComponent from './Components/ExampleComponent.vue'
 
 const PackageName = {
     install(Vue, options = {}) {
