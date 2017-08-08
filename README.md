@@ -19,7 +19,7 @@ This is a simple boilerplate for your next Vue plugin.
     * `package-git-url` - Full url to the git folder, e.g. https://github.com/user/package.git
     * `package-repo-url` - Full url to the repo, e.g. https://github.com/user/package
     * `package-autor` - Your name is enough
-4. Run `npm install`
+4. Run `yarn` or `npm install` (45 seconds or 3 minutes)
 5. Run `npm login`
 6. Write your package code in `src/main.js`
 7. Remove `README.md` and rename `README.example.md` to `README.md`
