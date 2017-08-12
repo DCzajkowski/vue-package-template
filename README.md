@@ -11,6 +11,8 @@ This is a simple boilerplate for your next Vue plugin.
 * [Issues](#issues)
 
 ## Installation
+If you want to use *vue-cli*, have a look at this: https://github.com/DCzajkowski/npm-vue-es6-cli-package
+
 1. Fork this repo
 2. Clone it to your local development machine
 3. Open `package.json` file. Find and replace following keys:
