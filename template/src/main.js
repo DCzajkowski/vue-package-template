@@ -23,11 +23,13 @@ const PackageName = {
     },
 }
 
-if (typeof window !== 'undefined' && window.Vue) {
-    window.Vue.use(PackageName);
-}
+if (typeof window !== 'undefined') {
+    if (window.Vue) {
+        window.Vue.use(PackageName)
+    }
 
-window.PackageName = PackageName
+    window.PackageName = PackageName
+}
 
 export { PackageName }
 export default PackageName
