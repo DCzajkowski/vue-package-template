@@ -1,3 +1,9 @@
+<h1 align="center">⚠️ This package is abandoned in favor of Vue Cli3 ⚠️</h1>
+<p align="center">Refer to its documentation for creating new Vue packages</p>
+
+<br>
+<br>
+
 # Vue package ES6 boilerplate
 This is a simple boilerplate for your next Vue plugin.
 
